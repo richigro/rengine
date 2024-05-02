@@ -1,9 +1,12 @@
-# Visual Studio 2015/2017 cache/options directory
-.vs
-
-# Git settings directory
-.git
-
-# Build results
-bin/
+# Binaries
+**/bin/
 bin-int/
+Intermediates/
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
