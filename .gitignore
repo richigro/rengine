@@ -1,2 +1,9 @@
+# Visual Studio 2015/2017 cache/options directory
 .vs
+
+# Git settings
 .git
+
+# Build results
+bin/
+bin-int/
